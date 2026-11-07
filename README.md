@@ -2,7 +2,7 @@
 
 An interactive Excel dashboard that breaks total income down by **product** and **payment method**, compares **B2B vs B2C** sales, and tracks **actual income against target**, with a year selector (2023 / 2024 / 2025).
 
-![Dashboard overview](images/dashboard-overview.png)
+![Dashboard overview](images//blob/main/Screenshot%202026-11-07%20204836.png)
 
 ## What it shows
 
